@@ -1,0 +1,7 @@
+interface:
+  display_name: "Real Need"
+  short_description: "澄清真实需求，收敛项目边界与成功标准并形成确认清单"
+  default_prompt: "使用 $real-need 先澄清并确认这项想法的真实需求。"
+
+policy:
+  allow_implicit_invocation: true
